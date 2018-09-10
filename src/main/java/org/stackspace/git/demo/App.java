@@ -6,7 +6,10 @@ public class App {
 			System.out.println("welcome to java techie");
 		}
 	}
-
+public void addedMethod(){
+System.out.println("welcome to java techie");
+}
+	
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}
