@@ -7,9 +7,7 @@
   <groupId>org.stackspace</groupId>
   <artifactId>git.demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
   <name>git.demo</name>
-  <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
   <properties>
@@ -34,7 +32,6 @@
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
-        <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_jar_packaging -->
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
           <version>3.0.2</version>
